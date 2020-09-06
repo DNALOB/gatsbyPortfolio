@@ -6,6 +6,14 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
     {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: 'portfolio-2020',
+        region: 'eu-west-1',
+        acl: null,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
