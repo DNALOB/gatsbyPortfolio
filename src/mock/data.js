@@ -66,8 +66,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'projectIAC.png',
     title: 'Cloud Architecture',
-    info: '',
-    info2: '',
+    info: ' -- Placeholder --',
+    info2: ' -- Placeholder --',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
