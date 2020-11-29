@@ -66,10 +66,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'projectIAC.png',
     title: 'Cloud Architecture',
-    info: ' -- Placeholder --',
-    info2: ' -- Placeholder --',
+    info: 'AWS Cloud Architect',
+    info2: 'IAC Terraform Associate',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/tim0git/tf_modules', // if no repo, the button will not show up
   },
 ];
 
