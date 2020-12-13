@@ -24,7 +24,7 @@ export const aboutData = {
     'Furthermore, I regularly attend monthly meet-ups such as Manchester JS, DevOps Exchange Manchester & Lean Agile Stockport. The experience i have developed has allowed me to collaborate on open source projects in my spare time.',
   paragraphThree:
     'I have an appetite for personal development and as a result i regularly attend conferences and study new technologies. Lately i have attended React Native EU 2020, WWDC2020, JS Nation Live, GitHub Satellite Keynote & Microsoft Build 2020. In addition I have a passion for Go, this fast and powerful language has practical applications for business of all sizes, and I hope will become prolific in all micro-service architecture in the future.',
-  resume: '', // if no resume, the button will not show up
+  resume: 'https://timothy-doolan-cv.s3-eu-west-1.amazonaws.com/Timothy+Doolan+CV+Web+Friendly.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
