@@ -46,7 +46,7 @@ export const projectsData = [
     title: 'React Native Mobile Applications',
     buttonTitle: 'Product Page',
     info:
-      'I am currently working in an agile team that develops new features and maintains the core library for a white label mobile application. By Leveraging the React Native write once deploy anywhere methodology, we can deliver features for both Android and IOS users simultaneously, controlling costs and reducing development times. Features includes user pool migration, multi-factor authentication, proactive quote, push notifications, deep-linking and providing an entry point to many of the commonly used web journeys.',
+      'I am currently working in an agile team that develops new features and maintains the core library for a white label mobile application. By Leveraging the React Native write once deploy anywhere methodology, we can deliver features for both Android and IOS users simultaneously, controlling costs and reducing development times. Features include user pool migration, multi-factor authentication, proactive quote, push notifications, deep-linking and providing an entry point to many of the commonly used web journeys.',
     info2:
       'In addition I have worked on producing functional prototype applications for startups, the latest has been offered a place on the GC Angels investor portal.',
     url: 'https://apps.apple.com/gb/app/sainsburys-bank-insurance/id1421824068',
