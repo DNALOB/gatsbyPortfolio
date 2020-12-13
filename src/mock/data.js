@@ -88,8 +88,8 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
+      name: 'codewars',
+      url: 'https://www.codewars.com/users/Tim0Git',
     },
     {
       id: nanoid(),
